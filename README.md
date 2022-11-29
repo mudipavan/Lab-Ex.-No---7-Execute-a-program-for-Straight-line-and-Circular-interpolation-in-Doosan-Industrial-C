@@ -45,10 +45,31 @@ Circular Interpolation
 
 ### output
 
+![image](https://user-images.githubusercontent.com/94828517/204609507-a95af910-a9d7-4b4e-9a4a-abd2b9dc1115.png)
+![image](https://user-images.githubusercontent.com/94828517/204609646-9189ced2-26df-4508-a802-545f8aafbd39.png)
+![image](https://user-images.githubusercontent.com/94828517/204609755-2a68ce91-ddca-4aef-a11d-b9e7b54a5bdf.png)
+![image](https://user-images.githubusercontent.com/94828517/204609906-35162a57-f450-4625-86ef-8a1e15458e50.png)
+![image](https://user-images.githubusercontent.com/94828517/204610009-0d1404d6-cd8c-4419-a486-7d8eb7a7742b.png)
+![image](https://user-images.githubusercontent.com/94828517/204610245-f3994b61-9488-437b-bc50-a8a0da44d08a.png)
+![image](https://user-images.githubusercontent.com/94828517/204610454-a1656092-b8f8-41eb-bea4-25abcd417853.png)
+
+
+Robot:
+
+Linear Interpolation:
+
+![image](https://user-images.githubusercontent.com/94828517/204611017-5a1d4909-8230-4839-b643-e2ad1cb14f3d.png)
+
+Circular Interpolation:
+
+![image](https://user-images.githubusercontent.com/94828517/204611097-7d6be567-3e46-4c08-a571-79e68f8e8e68.png)
+
 
 
 
 ### Results 
+
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
